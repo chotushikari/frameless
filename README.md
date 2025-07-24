@@ -11,15 +11,15 @@ Absolutely! Here’s a polished yet playful README that blends professional foun
 
 ## 🚀 Project Overview
 
-### The Story Behind Frameless (Spoiler: It Involves Me, A Video
+### The Story Behind Frameless 
 
 So,I was scrolling endlessly through the internet rabbit hole, as one does (because who really studies 24/7?), and I stumble upon this hilarious video of someone awkwardly dodging a camera flash at a party — you know, the classic *“Don’t get caught in the photo!”* moment.
 
-And then it hit me like a pixelated bolt of inspiration:
+And then it hit me like her:
 
 **“What if we turn this awkward dance into a real game? A game where you literally have to avoid being ‘caught’ in a camera frame... but on your computer? And what if it could detect your body in real-time and snap your photo when you fail?!”**
 
-That’s how **Frameless** was born — fueled by caffeine, a bit of procrastination, and a pinch of “I can totally build this in JavaScript.”
+That’s how **Frameless** was born —  a bit of procrastination, and a pinch of “I can totally build this by using chatgpt.”
 
 ---
 
